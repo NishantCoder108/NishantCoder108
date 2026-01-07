@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1>
 <p align="center" margin-bottom="5rem">
 Open-source contributor | Full-stack Solana developer
@@ -67,8 +64,6 @@ Prefer proof over promises? Here’s my work.
 
 
 
-
-
 #### Solana Graduate 
 
 [![School of Solana](https://img.shields.io/badge/School%20of%20Solana-Graduate-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/school-of-solana-graduate)
@@ -88,13 +83,23 @@ Prefer proof over promises? Here’s my work.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<!-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
-<!-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) -->
-<!--  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) -->
-<!-- ![Pinocchio](https://img.shields.io/badge/-Pinocchio-6f3aff?style=flat-square&logo=pinocchio&logoColor=white) -->
-<!-- ![Axum](https://img.shields.io/badge/-Axum-3B275F?style=flat-square&logo=rust&logoColor=white) -->
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
+![Pinocchio](https://img.shields.io/badge/-Pinocchio-6f3aff?style=flat-square&logo=solana&logoColor=white)
+![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat-square&logo=rust&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat-square&logo=rust&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![LiteSVM](https://img.shields.io/badge/-LiteSVM-6f3aff?style=flat-square&logo=solana&logoColor=white)
+![Solana Testing](https://img.shields.io/badge/-Solana%20Testing-6f3aff?style=flat-square&logo=solana&logoColor=white)
 
 
 ## Connect with Me
