@@ -87,19 +87,14 @@ Prefer proof over promises? Here’s my work.
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![Pinocchio](https://img.shields.io/badge/-Pinocchio-6f3aff?style=flat-square&logo=solana&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat-square&logo=rust&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat-square&logo=rust&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![LiteSVM](https://img.shields.io/badge/-LiteSVM-6f3aff?style=flat-square&logo=solana&logoColor=white)
 ![Solana Testing](https://img.shields.io/badge/-Solana%20Testing-6f3aff?style=flat-square&logo=solana&logoColor=white)
+![LiteSVM](https://img.shields.io/badge/-LiteSVM-6f3aff?style=flat-square&logo=solana&logoColor=white)
+
 
 
 ## Connect with Me
