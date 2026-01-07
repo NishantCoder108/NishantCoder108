@@ -36,7 +36,7 @@ Prefer proof over promises? Here’s my work.
 [![Learning Hub](https://img.shields.io/badge/Learning%20Hub%20(Solana%20+%20Rust)-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 [![Rust in Practice](https://img.shields.io/badge/Rust%20in%20Practice-6f3aff?style=flat-square&logo=rust&logoColor=white)](https://github.com/NishantCoder108/rust-in-practice)
 
-#### Pinned work
+#### Selected Projects
 
 [![Tip dApp](https://img.shields.io/badge/Tip%20dApp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/Tip)
 [![x402 CLI](https://img.shields.io/badge/x402%20CLI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/x402-cli)
@@ -44,6 +44,29 @@ Prefer proof over promises? Here’s my work.
 [![Chainpay](https://img.shields.io/badge/Chainpay-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/chainpay)
 [![Oracle Reading](https://img.shields.io/badge/Oracle%20Reading-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/oracle-reading)
 [![Token Lauchpad with Metadata](https://img.shields.io/badge/Token%20Lauchpad%20with%20Metadata-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/token-lauchpad-with-metadata)
+[![Crud in Solana](https://img.shields.io/badge/Crud%20in%20Solana-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/crud-in-solana)
+[![CatNifty](https://img.shields.io/badge/CatNifty-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/CatNifty)
+[![Foundry NFT](https://img.shields.io/badge/Foundry%20NFT-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/foundry-nft)
+[![Solcapita](https://img.shields.io/badge/solcapita-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/solcapita)
+[![Web Wallet X](https://img.shields.io/badge/Web%20Wallet%20X-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/web-wallet-x)
+[![Faucet](https://img.shields.io/badge/Faucet-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/faucet)
+[![Blockchain Connector](https://img.shields.io/badge/Blockchain%20Connector-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/blockchain-connector)
+[![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/telegram-bot)
+[![Lock Contract](https://img.shields.io/badge/Lock%20Contract-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/lock-contract)
+[![Lottery Smart Contract](https://img.shields.io/badge/Lottery%20Smart%20Contract-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/lottery-smart-contract)
+[![SimpleStorage](https://img.shields.io/badge/SimpleStorage-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/SimpleStorage)
+[![EtherVault](https://img.shields.io/badge/EtherVault-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/EtherVault)
+[![Forge ERC20](https://img.shields.io/badge/Forge%20ERC20-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/forge-erc20)
+[![Quiz App](https://img.shields.io/badge/Quiz%20App-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/Quiz_App)
+[![Netflix GPT](https://img.shields.io/badge/Netflix%20GPT-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/netflix-gpt)
+[![Devlib](https://img.shields.io/badge/devlib-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/devlib)
+[![JSON Formatter](https://img.shields.io/badge/JSON%20Formatter-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/xy108)
+[![Deploy on AWS](https://img.shields.io/badge/Deploy%20on%20AWS-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/deploy_on_aws)
+[![Nodemailer](https://img.shields.io/badge/Nodemailer-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/nodemailer)
+
+
+
+
 
 
 #### Solana Graduate 
