@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1>
 <p align="center" margin-bottom="5rem">
-Open-source contributor | Full-stack Solana developer
+Open source contributor | Full stack Solana developer
 </p>
 
 <p align="center" margin-bottom="1rem">
@@ -18,9 +18,9 @@ Open-source contributor | Full-stack Solana developer
   <strong>Secondary:</strong> <a href="https://github.com/sol-warrior">sol-warrior</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <em>I use both GitHub accounts. Everything you see across them is my own work.</em>
-</p>
+</p> -->
 
 
 <br/>
