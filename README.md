@@ -33,6 +33,11 @@ Prefer proof over promises? Here’s my work.
 [![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 [![Rust in Practice](https://img.shields.io/badge/Rust%20in%20Practice-6f3aff?style=flat-square&logo=rust&logoColor=white)](https://github.com/NishantCoder108/rust-in-practice)
 
+#### Fun Projects
+
+[![TrackGoal by Terminal](https://img.shields.io/crates/v/trackgoal?style=flat-square&label=TrackGoal%20by%20Terminal)](https://crates.io/crates/trackgoal)
+
+
 #### Selected Projects
 
 [![Tip dApp](https://img.shields.io/badge/Tip%20dApp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/Tip)
@@ -109,6 +114,9 @@ Let’s connect:
 <a href="https://www.youtube.com/@warrior-of-sol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:solwarrior0@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~solwarrior-dev" target="_blank"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
+<a href="https://crates.io/crates/trackgoal" target="_blank"><img src="https://img.shields.io/crates/v/trackgoal.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
+
+
 </p>
 
 
