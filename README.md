@@ -30,8 +30,9 @@ Prefer proof over promises? Here’s my work.
 
 [![Solana Smart Contracts](https://img.shields.io/badge/Solana%20Smart%20Contracts-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solana-smart-contracts)
 [![Notable PRs](https://img.shields.io/badge/Notable%20Open%20Source%20Work-24292f?style=flat-square&logo=github&logoColor=white)](https://gist.github.com/NishantCoder108/703b3d71c28e606c83e17a30ccfbc1ee)
-[![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub)
 [![Rust in Practice](https://img.shields.io/badge/Rust%20in%20Practice-6f3aff?style=flat-square&logo=rust&logoColor=white)](https://github.com/NishantCoder108/rust-in-practice)
+
+<!--[![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub) -->
 
 #### Fun Projects
 
@@ -77,7 +78,7 @@ Prefer proof over promises? Here’s my work.
 [![School of Solana](https://img.shields.io/badge/School%20of%20Solana-Graduate-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/school-of-solana-graduate)
 [![Turbin3](https://img.shields.io/badge/Turbin3-Graduate-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/solana-turbin3/Q2_25_Builder_Nishant)
 
-
+<!-- 
 #### How I build things
 
 ![Solana](https://img.shields.io/badge/-Solana-6f3aff?style=flat-square&logo=solana&logoColor=white)
@@ -103,7 +104,7 @@ Prefer proof over promises? Here’s my work.
 ![Solana Testing](https://img.shields.io/badge/-Solana%20Testing-6f3aff?style=flat-square&logo=solana&logoColor=white)
 ![LiteSVM](https://img.shields.io/badge/-LiteSVM-6f3aff?style=flat-square&logo=solana&logoColor=white)
 
-
+-->
 
 ## Connect with Me
 <!-- 
