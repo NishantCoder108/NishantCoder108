@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1>
-<p align="center" margin-bottom="5rem">
+ <h1 align="center">👋 Hey there, I'm <strong>Nishant</strong> </h1> 
+<!-- <p align="center" margin-bottom="5rem">
 Open source contributor | Full stack Solana developer
-</p>
+</p> -->
 
 <p align="center" margin-bottom="1rem">
   <img src="https://komarev.com/ghpvc/?username=nishantcoder108&label=Profile%20Views&color=6f3aff&style=flat-square" alt="profile views" />
@@ -106,9 +106,9 @@ Prefer proof over promises? Here’s my work.
 
 
 ## Connect with Me
-
+<!-- 
 Always excited to learn, help, and build with the Solana community.
-Let’s connect:
+Let’s connect:-->
 
 <p align="center">
 <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
