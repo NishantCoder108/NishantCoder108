@@ -110,7 +110,7 @@ Prefer proof over promises? Here’s my work.
 
 Always excited to learn, help, and build with the Solana community.
 Let’s connect:-->
----
+<h1> </h1>
 
 <p align="center">
 <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
