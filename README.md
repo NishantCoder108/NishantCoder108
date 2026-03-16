@@ -105,11 +105,12 @@ Prefer proof over promises? Here’s my work.
 ![LiteSVM](https://img.shields.io/badge/-LiteSVM-6f3aff?style=flat-square&logo=solana&logoColor=white)
 
 -->
-
-## Connect with Me
 <!-- 
+## Connect with Me
+
 Always excited to learn, help, and build with the Solana community.
 Let’s connect:-->
+---
 
 <p align="center">
 <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
