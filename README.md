@@ -115,8 +115,8 @@ Let’s connect:-->
 <p align="center">
 <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://github.com/nishantcoder108" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/></a>       
-<!-- <a href="https://www.youtube.com/@warrior-of-sol" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a> -->
-<a href="https://www.youtube.com/@warrior-of-sol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<!-- <a href="https://www.youtube.com/@warrior-of-sol" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
+<a href="https://www.youtube.com/@warrior-of-sol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
 <a href="mailto:solwarrior0@gmail.com"><img src="https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~solwarrior-dev" target="_blank"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
 <a href="https://crates.io/crates/trackgoal" target="_blank"><img src="https://img.shields.io/crates/v/trackgoal.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
