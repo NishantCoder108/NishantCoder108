@@ -37,7 +37,7 @@ Prefer proof over promises? Here’s my work.
 
 
 ####  Projects
-
+[![Notification System](https://img.shields.io/badge/Notification%20System-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/notification-system)
 [![Tip dApp](https://img.shields.io/badge/Tip%20dApp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/Tip)
 [![x402 CLI](https://img.shields.io/badge/x402%20CLI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/x402-cli)
 [![plntd defi](https://img.shields.io/badge/PLNTD%20defi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/plntd)
