@@ -11,7 +11,7 @@ Open source contributor | Full stack Solana developer
        <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/@warriorofsol-gray?style=for-the-badge&logo=x&logoColor=white"/></a>
  </div>     -->
 
-<br/>
+
 
 <!-- <p align="center">
   <strong>Main:</strong> <a href="https://github.com/nishantcoder108">nishantcoder108</a> •
