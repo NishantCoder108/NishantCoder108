@@ -7,9 +7,9 @@ Open source contributor | Full stack Solana developer
   <img src="https://komarev.com/ghpvc/?username=nishantcoder108&label=Profile%20Views&color=6f3aff&style=flat-square" alt="profile views" />
 </p>
 
-<div align="center">   
+<!-- <div align="center">   
        <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/@warriorofsol-gray?style=for-the-badge&logo=x&logoColor=white"/></a>
- </div>    
+ </div>     -->
 
 <br/>
 
@@ -34,17 +34,15 @@ Prefer proof over promises? Here’s my work.
 
 <!--[![Solana & Rust Playground](https://img.shields.io/badge/Solana%20&%20Rust%20Playground-24292f?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/solwarrior-dev-hub) -->
 
-#### Fun Projects
-
-[![TrackGoal by Terminal](https://img.shields.io/crates/v/trackgoal?style=flat-square&label=TrackGoal%20by%20Terminal)](https://crates.io/crates/trackgoal)
 
 
-#### Selected Projects
+####  Projects
 
 [![Tip dApp](https://img.shields.io/badge/Tip%20dApp-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/Tip)
 [![x402 CLI](https://img.shields.io/badge/x402%20CLI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/sol-warrior/x402-cli)
 [![plntd defi](https://img.shields.io/badge/PLNTD%20defi-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/plntd)
 [![Chainpay](https://img.shields.io/badge/Chainpay-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/chainpay)
+[![TrackGoal by Terminal](https://img.shields.io/crates/v/trackgoal?style=flat-square&label=TrackGoal%20by%20Terminal)](https://crates.io/crates/trackgoal)
 [![Oracle Reading](https://img.shields.io/badge/Oracle%20Reading-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/oracle-reading)
 [![Token Lauchpad with Metadata](https://img.shields.io/badge/Token%20Lauchpad%20with%20Metadata-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/token-lauchpad-with-metadata)
 [![Crud in Solana](https://img.shields.io/badge/Crud%20in%20Solana-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/crud-in-solana)
@@ -72,13 +70,13 @@ Prefer proof over promises? Here’s my work.
 [![Deploy on AWS](https://img.shields.io/badge/Deploy%20on%20AWS-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/NishantCoder108/deploy_on_aws) -->
 
 
-
+<!-- 
 #### Solana Graduate 
 
 [![School of Solana](https://img.shields.io/badge/School%20of%20Solana-Graduate-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/sol-warrior/school-of-solana-graduate)
 [![Turbin3](https://img.shields.io/badge/Turbin3-Graduate-6f3aff?style=flat-square&logo=solana&logoColor=white)](https://github.com/solana-turbin3/Q2_25_Builder_Nishant)
 
-<!-- 
+
 #### How I build things
 
 ![Solana](https://img.shields.io/badge/-Solana-6f3aff?style=flat-square&logo=solana&logoColor=white)
@@ -113,7 +111,7 @@ Let’s connect:-->
 <h1> </h1>
 
 <p align="center">
-<a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<!-- <a href="https://x.com/warriorofsol" target="_blank"><img src="https://img.shields.io/badge/Twitter-gray.svg?style=for-the-badge&logo=x&logoColor=white"/></a> -->
 <a href="https://github.com/nishantcoder108" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white"/></a>       
 <!-- <a href="https://www.youtube.com/@warrior-of-sol" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a> 
 <a href="https://www.youtube.com/@warrior-of-sol"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>-->
